@@ -1,0 +1,3 @@
+Stock: AAPL
+Quantity: 20
+Total Investment: 3600
